@@ -2,7 +2,7 @@
   <!-- CARD -->
   <div @click="toggleOverlay"
     class="flex flex-row lg:flex-col items-center lg:items-start z-10 p-2 hover:bg-gray-100 bg-amber-50/60 rounded shadow-lg cursor-pointer duration-300 lg:p-4">
-    <img v-bind:src="'src/assets/album_cover/' + album.cover" class="object-cover w-24 h-24 lg:w-full lg:h-56 rounded"
+    <img v-bind:src="'/src/assets/album_cover/' + album.cover" class="object-cover w-24 h-24 lg:w-full lg:h-56 rounded"
       alt="" />
 
     <div class="ml-3 lg:ml-0">
