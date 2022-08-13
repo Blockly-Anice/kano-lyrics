@@ -52,7 +52,7 @@ export default {
       bgColor: 'bg-neutral-300/70',
       bgColorHover: 'hover:bg-neutral-100',
       titleFormat: `${this.track.id}. ${this.track.title.romaji}`,
-      lrcFilePath: `/lyrics/${this.album}/${this.track.id}. ${this.track.title.romaji.replace('/', ' ')}.lrc`
+      lrcFilePath: `/kano-lyrics/lyrics/${this.album}/${this.track.id}. ${this.track.title.romaji.replace('/', ' ')}.lrc`
     };
   },
   methods: {
