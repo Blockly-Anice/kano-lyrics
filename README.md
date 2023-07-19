@@ -18,9 +18,9 @@ Kano (Japanese: 鹿乃, born December 24) is a Japanese musician and virtual You
 ### Screenshots
 
 <p align="center">
-  <img src="/src/assets/screenshots/home.webp" alt="Kano"/ width="250">
+  <img src="/src/assets/screenshots/home.webp" alt="Kano"/>
   <br>
-  <img src="/src/assets/screenshots/detail.webp.webp" alt="Kano"/ width="250">
+  <img src="/src/assets/screenshots/detail.webp" alt="Kano"/>
   <br>
-  <img src="/src/assets/screenshots/lyric detail.webp.webp" alt="Kano"/ width="250">
+  <img src="/src/assets/screenshots/lyric detail.webp" alt="Kano"/>
 </p>
