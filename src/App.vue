@@ -31,9 +31,9 @@ import AlertPop from "./components/AlertPopUp.vue"
             </defs>
             <rect fill="url(#9a29985a-fc16-419b-ae53-1670f5ca4491)" width="52" height="24"></rect>
           </svg>
-          <span class="relative">The</span>
+          <span class="relative">鹿乃 | </span>
         </span>
-        quick, brown fox jumps over a lazy dog
+        歌う人。音楽ユニット
       </h2>
       <p class="text-base md:text-lg">
         Kano (Japanese: 鹿乃, born December 24) is a Japanese musician and virtual YouTuber who is signed to Imperial Records. She began her artist activities as a doujin artist, uploading songs on the video-sharing website Nicovideo.
