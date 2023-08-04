@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository is used to store the lyrics of the songs performed by Kano. The data is still incomplete and there's also some lyrics that I can't found on the internet.
+This repository is used to store the lyrics of the songs performed by Kano. The data is still incomplete, and there are also some lyrics that I can't find on the internet.
 
 ## About Kano (鹿乃)
 
