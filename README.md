@@ -14,6 +14,7 @@ Kano (Japanese: 鹿乃, born December 24) is a Japanese musician and virtual You
 
 - [Youtube](https://www.youtube.com/user/bambinoonico)
 - [Twitter](https://twitter.com/kano_2525)
+- [Twitch](https://www.twitch.tv/kanotic_)
 
 ### Screenshots
 
